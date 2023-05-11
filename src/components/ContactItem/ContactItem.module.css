@@ -1,0 +1,22 @@
+.text {
+  display: inline-block;
+  margin-left: 10px;
+  border: none;
+  outline: none;
+}
+
+.button {
+  display: inline-block;
+  margin-left: 30px;
+  background-color: grey;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  padding: 5px 10px;
+}
+
+.button:hover {
+  background-color: black;
+}

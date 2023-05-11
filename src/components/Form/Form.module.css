@@ -1,0 +1,26 @@
+.form input {
+  display: block;
+  width: 300px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 15px;
+}
+.button {
+  display: inline-block;
+  background-color: grey;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  padding: 5px 10px;
+}
+
+.button:hover {
+  background-color: #333;
+}
